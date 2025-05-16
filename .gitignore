@@ -8,7 +8,7 @@
 # 環境変数ファイル（機密情報を含む）
 .env
 .env.*
-!.env.example  # サンプルファイルは含める
+!.env.example
 
 # Laravel Homestead 設定ファイル
 Homestead.yaml
